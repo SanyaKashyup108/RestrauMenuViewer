@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar.jsx';
 import Home from './pages/Home/Home.jsx';
 import Menu from './pages/Menu.jsx';
 import MobileApp from './pages/MobileApp.jsx';
-import Login from './components/Login/login.jsx';
+import Login from './components/Login/Login.jsx';
 import ContactUs from './pages/ContactUs.jsx';
 import Cart from './pages/Cart/Cart.jsx'; 
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder.jsx'; // <-- import this
