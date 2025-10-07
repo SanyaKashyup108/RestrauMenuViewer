@@ -9,7 +9,7 @@ const StoreContextProvider = ({ children }) => {
   const [token, setToken] = useState(localStorage.getItem("token") || ""); 
   const [cartItems, setCartItems] = useState({});
 
-  const url = "http://localhost:4000";
+  const url = "https://restrau-menu-viewer.vercel.app";
 
   const fetchFoodList = async () => {
     try {

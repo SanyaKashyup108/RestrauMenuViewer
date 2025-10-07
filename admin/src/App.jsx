@@ -9,7 +9,7 @@ import Orders from "./pages/Orders/Orders";
 
 
 const App = () => {
-  const url="http://localhost:4000";
+  const url="https://restrau-menu-viewer.vercel.app";
   return (
     <Router>
       <ToastContainer/>
